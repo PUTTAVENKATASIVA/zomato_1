@@ -55,7 +55,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/sentiment-analysis-zomato.git
+git clone https://github.com/PUTTAVENKATASIVA/zomato_1
 cd sentiment-analysis-zomato
 Install Dependencies:
 Ensure you have Python installed. Then, install the required libraries using pip:
